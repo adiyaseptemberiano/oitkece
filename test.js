@@ -1,1 +1,3 @@
-console.log("ADADWAWDDWAWA")
+alert("corsa kontol");
+    
+    console.log("ADADWAWDDWAWA")
